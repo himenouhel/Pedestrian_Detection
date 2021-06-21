@@ -9,7 +9,7 @@ namespace PIF6004_ProjetSession_DSP_ET
     static class Program
     {
         /// <summary>
-        /// Point d'entrée principal de l'application.
+        /// Point d'entrée principal de l'Application.
         /// </summary>
         [STAThread]
         static void Main()
